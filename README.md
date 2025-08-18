@@ -18,10 +18,10 @@ agar semua perangkat berada pada satu network.
 
 3. tambahkan Port ke Bridge
    
-   /interface bridge port add bridge=bridge1 interface=eth2.   
+   /interface bridge port add bridge=bridge1 interface=eth1.   
+   /interface bridge port add bridge=bridge1 interface=eth2.     
    /interface bridge port add bridge=bridge1 interface=eth3.     
    /interface bridge port add bridge=bridge1 interface=eth4.     
-   /interface bridge port add bridge=bridge1 interface=eth5.     
    
 4. berikan IP Address pada Bridge
 
