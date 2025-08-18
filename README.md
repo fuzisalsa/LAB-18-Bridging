@@ -3,7 +3,7 @@ tanggal 16 Agustus
 
 # Bridging
 
-![n]() 
+![n](BRIGTP.PNG) 
 
 beberapa interface (eth2, eth3, eth4, eth5) digabungkan dalam satu bridge 
 agar semua perangkat berada pada satu network.
