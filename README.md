@@ -29,7 +29,7 @@ agar semua perangkat berada pada satu network.
 
 5. Cek Status
 
-   /interface bridge print
+   /interface bridge print     
    /interface bridge port print
    
 
