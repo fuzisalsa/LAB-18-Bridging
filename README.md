@@ -47,9 +47,6 @@ agar semua perangkat berada pada satu network.
     /ip dns set server=8.8.8.8
     
 10. Ubah IP di Client jadi auto/obtain auto lewat Control Panel.
-
-![m]()
-
 10. Jika sudah terhubung bisa di setting di winbox IP > DHCP Server > Lease > Make static agar IP yang didapat tetap.
 11. Cek Status
 
@@ -58,7 +55,7 @@ agar semua perangkat berada pada satu network.
 
  12. Jika client sudah mendapat IP, coba ping di CMD.
 
-![m]()
+![m](oll.PNG)
 
 # Kesimpulan
 Bridging di Mikrotik menghubungkan beberapa port fisik ke dalam satu segment 
